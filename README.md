@@ -1,0 +1,2 @@
+# LindanyDynatech.io
+DynaTechWebsite
