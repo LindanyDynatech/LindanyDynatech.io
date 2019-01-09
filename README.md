@@ -1,2 +1,2 @@
-# LindanyDynatech.io
+# LindanyDynatech.github.io
 DynaTechWebsite
